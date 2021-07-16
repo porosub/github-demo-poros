@@ -57,8 +57,8 @@ To run this application locally, you'll need to:
 - Clone this repository:
 
 ```
-git clone https://github.com/MLH/mlh-localhost-github.git
-cd localhost-github
+git clone https://github.com/porosub/github-demo-poros.git
+cd github-demo-poros
 npm install
 ```
 
